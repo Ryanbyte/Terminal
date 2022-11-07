@@ -6,10 +6,10 @@ var email = 'mailto:abdullahrayyanrahman1@gmail.com';
 whois = [
   "<br>",
   "Hey, I'm Rayyan!👋",
-  "I'm a 12 year old programmer and Student",
-  "A person who hates himself the most",
-  "I am not allowed to disclose that information",
-  "... i dont know who that is",
+  "I'm a 12 year old programmer and student",
+  "I mostly program in my free time.",
+  "All my friends think they're intelligent",
+  "Anyways thats enough.",
   "<br>"
 ];
 
@@ -54,18 +54,11 @@ help = [
 ];
 
 banner = [
-  ' .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .-----------------.',
-  '| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |',
-  '| |  _______     | || |      __      | || |  ____  ____  | || |  ____  ____  | || |      __      | || | ____  _____  | |',
-  '| | |_   __ \    | || |     /  \     | || | |_  _||_  _| | || | |_  _||_  _| | || |     /  \     | || ||_   \|_   _| | |',
-  '| |   | |__) |   | || |    / /\ \    | || |   \ \  / /   | || |   \ \  / /   | || |    / /\ \    | || |  |   \ | |   | |',
-  '| |   |  __ /    | || |   / ____ \   | || |    \ \/ /    | || |    \ \/ /    | || |   / ____ \   | || |  | |\ \| |   | |',
-  '| |  _| |  \ \_  | || | _/ /    \ \_ | || |    _|  |_    | || |    _|  |_    | || | _/ /    \ \_ | || | _| |_\   |_  | |',
-  '| | |____| |___| | || ||____|  |____|| || |   |______|   | || |   |______|   | || ||____|  |____|| || ||_____|\____| | |',
-  '| |              | || |              | || |              | || |              | || |              | || |              | |',
- , 
- ,
+ 'Update 2',
+ 'Version 2.9.1',
+ 'VersionHash #b0fb141544d5853688da82d35b392049',
 
+ ' ',
   '<span class="index">TriumvirateStudios. All knights reserved.</span>',
   '<span class="color2">Welcome to my web terminal.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
