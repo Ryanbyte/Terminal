@@ -3,7 +3,7 @@ var password = "youarecrazyman1111";
 var github = "https://github.com/Ryanbyte/";
 var email = 'mailto:abdullahrayyanrahman1@gmail.com';
 
-whoisrayyan = [
+whois = [
   "<br>",
   "Hey, I'm Rayyan!👋",
   "I'm a 12 year old programmer and student",
