@@ -1,5 +1,5 @@
 var twitter = "https://www.twitter.com/Ryanbyte/";
-var password = "youarecrazyman1111";
+var password = "youarecrazyman111";
 var github = "https://github.com/Ryanbyte/";
 var email = 'mailto:abdullahrayyanrahman1@gmail.com';
 
