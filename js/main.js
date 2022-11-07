@@ -78,10 +78,10 @@ function enterKey(e) {
 
 function commander(cmd) {
   switch (cmd.toLowerCase()) {
-    case "helpmepls":
+    case "help":
       loopLines(help, "color2 margin", 80);
       break;
-    case "whoisrayyan":
+    case "whois":
       loopLines(whois, "color2 margin", 80);
       break;
     case "whoami":
