@@ -38,7 +38,7 @@ projects = [
   "<br>"
 ];
 
-helpmepls = [
+help = [
   "<br>",
   '<span class="command">whois</span>         Who is Rayyan?',
   '<span class="command">whoami</span>         Who are you?',
